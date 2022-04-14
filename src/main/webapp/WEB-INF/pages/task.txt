@@ -1,0 +1,6 @@
+ to know pid
+ netstat -ano
+ to kill task in terminal using pid
+ # taskkill /pid 4884 -f
+
+ control system marks - 09
